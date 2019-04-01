@@ -1,1 +1,1 @@
-# Loopback_product_setup
+Setup de loopback suivant le TP d'architecture logicielle pour la création d'une api RESTful
